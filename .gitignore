@@ -1,0 +1,10 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
+
+# Watcher script (optional)
+auto_commit_on_save.py
