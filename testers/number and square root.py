@@ -1,1 +1,1 @@
-print()
+print(a**0.5)
