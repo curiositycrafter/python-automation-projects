@@ -3,5 +3,5 @@ for i in range(4):
         if i+j>=4/2-1:
             print('*',end='')
         else:
-            print(' ')
+            print(' ',end='')
     print()
