@@ -1,1 +1,1 @@
-print()
+a=int(input()print()
