@@ -1,7 +1,7 @@
 n=8
 for i in range(n):
-    for j in range(8):
-        if j>n-i-1:
+    for j in range(n):
+        if j>=n-i-1:
             print('*',end='')
         else:
             print(' ',end='')
