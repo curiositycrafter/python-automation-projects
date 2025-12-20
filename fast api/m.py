@@ -9,4 +9,4 @@ app=FastAPI()
 def home():
     return {"message": "Hello, world!"}
 
-##so this is used to send and receieve msgs in browser 
+##so this is used to send and receieve msgs in browser basically
